@@ -1,0 +1,20 @@
+{
+  "name": "three-js",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.151.3",
+    "three-noise": "^1.1.2",
+    "three-text2d": "^0.6.0"
+  }
+}
